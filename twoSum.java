@@ -1,5 +1,3 @@
-package leetcode;
-
 /*Link to problem - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/*/
 import java.util.HashMap;
 

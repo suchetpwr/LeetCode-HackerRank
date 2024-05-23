@@ -1,4 +1,3 @@
-package leetcode;
 /*Link to problem - https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/*/
 
 public class primeNumbers {

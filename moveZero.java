@@ -1,5 +1,3 @@
-package leetcode;
-
 /* Link to roblem - https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/*/ 
 public class moveZero {
 public static void main(String []args){
